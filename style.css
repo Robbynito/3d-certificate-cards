@@ -62,3 +62,19 @@ body {
 .flipped {
     transform: rotateY(180deg);
 }
+#game-design {
+    background: none;
+    background-image: url(images/game-design.jpg)
+}
+#3d-design {
+    background-image: url(images/3d-design.jpg);
+}
+#motion-and-animation {
+    background-image: url(images/motion.jpg);
+}
+#ux-design {
+    background-image: url(images/ux-design.jpg);
+}
+#front-end-web {
+    background-image: url(images/web-design.jpg);
+}
