@@ -62,3 +62,9 @@ body {
 .flipped {
     transform: rotateY(180deg);
 }
+section{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    margin: auto;
+}
