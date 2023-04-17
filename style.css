@@ -67,4 +67,9 @@ section{
     flex-flow: column;
     text-align: center;
     margin: auto;
+    
+}
+section.img{
+    width: 300px;
+    height: 300px;
 }
