@@ -34,6 +34,12 @@ body {
 
     /* preserve child 3d   */
     transform-style: preserve-3d;
+    border: 5px;
+    border-color: black;
+
+    /* Card Styling*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
 }
 
 /* face */
@@ -47,7 +53,7 @@ body {
 }
 
 .front {
-    background: coral;
+    background: black;
 }
 
 .back {
